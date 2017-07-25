@@ -1,0 +1,2 @@
+# fzo_wyz
+school
